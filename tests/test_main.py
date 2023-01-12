@@ -2,16 +2,8 @@ from app import create_app
 import unittest
 
 # How to run this file ?
-# Go to the flask-quickstart directory
-# ie. the directory above this one
-# and execuute the following from the terminal
-# python -m unittest tests.test_main
 
-# ../flask-quickstart$ python -m unittest tests.test_main
-
-# You IDE / editor will most likely have a feature/extension
-# that automatically discovers and runs tests.
-
+# ../quickflask$ python -m unittest tests.test_main
 
 class TestMain(unittest.TestCase):
     def setUp(self):
