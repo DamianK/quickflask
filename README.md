@@ -110,5 +110,8 @@ You can  extend `manage.py` to support additional commands, parameters etc.
 
 ## Developing your application
 
-*quickflask* is built in such a way that you can easily integrate extensions, Blueprints, tests etc. The files are commented to help you out with this.
+*quickflask* is built in such a way that you can easily integrate extensions, blueprints, tests etc. The files are commented to help you out with this.
 
+## Contact me
+
+If you have any comments, suggestions or ideas to improve this, please contact me!
