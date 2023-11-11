@@ -1,6 +1,6 @@
 # QuickFlask
 This is my Flask quick start template.
-Its based on https://github.com/bittobennichan/flask-quickstart/ but updated to Flask version 2.
+Its based on https://github.com/bittobennichan/flask-quickstart/ but updated to Flask version 2.3.3.
 
 It is a minimal boilerplate/template for starting your new Flask project.
 
