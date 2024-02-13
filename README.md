@@ -8,7 +8,7 @@ It is a minimal boilerplate/template for starting your new Flask project.
 
 NOTE: This repo is not yet ready for Flask v 3.0 . Working on it, will update when ready!
 
-First clone the repostiory
+First clone the repository
 
 ```
 $ git clone https://github.com/DamianK/quickflask.git
