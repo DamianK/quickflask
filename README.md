@@ -2,7 +2,9 @@
 This is my Flask quick start template.
 Its based on https://github.com/bittobennichan/flask-quickstart/ but updated to Flask version 2.3.3.
 
-It is a minimal boilerplate/template for starting your new Flask project.
+It is a minimal boilerplate/template for starting your new Flask project. I'm planning to add other
+things like bootstrap and probably and admin panel. Also support for Flask v3.0. In the meantime
+its using v2.x branch.
 
 ## How to install
 
