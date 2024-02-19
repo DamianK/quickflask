@@ -20,10 +20,19 @@ Change directory to quickflask
 ```
 $ cd quickflask
 ```
-Create a virtual environment and install dependencies
+Create a virtual environment and install dependencies. For eg. with virtualenvwrapper:
+
+on MacOS:
 ```
 $ mkvirtualenv quickflask
 $ workon quickflask
+$ pip install -r requirements.txt
+```
+
+on Linux/Ubuntu/WSL:
+```
+$ virtualenv quickflask
+$ source quickflask/quickflask/bin/activate
 $ pip install -r requirements.txt
 ```
 
