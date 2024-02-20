@@ -40,6 +40,11 @@ Start the development server
 ```
 $ flask run
 ```
+if you prefer, instead of the above it also runs with: 
+
+```
+$ python manage.py runserver
+```
 That's it! 
 
 Navigate to `http://127.0.0.1:5000/` and start your new project!
