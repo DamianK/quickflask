@@ -1,7 +1,7 @@
 import click
 from app import create_app
 # Import dependencies here
-# For example, if you were using SQLAlchem
+# For example, if you were using SQLAlchemy
 # from app import create_app, db
 
 
