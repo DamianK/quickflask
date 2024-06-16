@@ -3,7 +3,7 @@ This is my Flask quick start template.
 Its based on https://github.com/bittobennichan/flask-quickstart/ but instead of Flask v1.x it is updated to Flask version 3.0.3.
 
 It is a boilerplate/template for starting your new Flask project. I'm planning to add other things like bootstrap (or tailwind?) and probably and admin panel.
-It supports SQLAlchemy
+It supports SQLAlchemy or any other ORM you might like can be used.
 
 ## How to install
 
