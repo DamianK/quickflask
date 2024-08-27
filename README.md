@@ -104,7 +104,7 @@ You'll find that there are `.gitkeep` files in some folders. Git does not track 
 
 ## manage.py
 
-As mentioned earlier, **manage.py** has just one command **runserver** which is used to run the Flask development server.
+As mentioned earlier, **manage.py** has just one command **runserver** which is used to run the Flask development server instead of the flask run command.
 
 It takes two optional parameters
 
