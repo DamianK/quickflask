@@ -1,6 +1,6 @@
 # QuickFlask
 This is my Flask quick start template.
-Its based on Flask version 3.
+Its based on Flask version 3 (I tested with v3.0.3).
 
 It is a boilerplate/template for starting your new Flask project. For the frontend, you can use for eg. Tailwind CSS or Bootstrap. It uses SQLAlchemy ORM (but any other ORM or no ORM can be used).
 
