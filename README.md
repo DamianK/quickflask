@@ -25,7 +25,7 @@ $ workon quickflask
 $ pip install -r requirements.txt
 ```
 
-on Linux/Ubuntu/WSL:
+on Linux/Ubuntu/WSL (Windows):
 ```
 $ virtualenv quickflask
 $ source quickflask/quickflask/bin/activate
@@ -41,7 +41,7 @@ if you prefer, instead of the above it also runs with:
 ```
 $ python manage.py runserver
 ```
-That's it! 
+That's it!
 
 Navigate to `http://127.0.0.1:5000/` and start your new project!
 
