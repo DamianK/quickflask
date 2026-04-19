@@ -129,3 +129,4 @@ You can  extend `manage.py` to support additional commands, parameters etc.
 ## Contact me
 
 If you have any comments, suggestions or ideas to improve this, please contact me!
+
