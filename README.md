@@ -126,6 +126,9 @@ You can  extend `manage.py` to support additional commands, parameters etc.
 
 *quickflask* is built in such a way that you can easily integrate extensions, blueprints, tests etc. The files are commented to help you out with this.
 
+## LICENSE
+Quickflask is licensed under the MIT license. It's derived from a project originally worked by Bitto Bennichan.
+
 ## Contact me
 
 If you have any comments, suggestions or ideas to improve this, please contact me!
