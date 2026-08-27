@@ -43,7 +43,7 @@ $ python manage.py runserver
 ```
 That's it!
 
-Navigate to `http://127.0.0.1:5000/` and start your new project!
+Navigate to `http://127.0.0.1:5000/` and start your new project! Let me know if something does not work as expected.
 
 ## Project layout
 ```
